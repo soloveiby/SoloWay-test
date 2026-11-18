@@ -1,0 +1,138 @@
+{
+  "schema": 1,
+  "institutions": [
+    {
+      "id": "bsu-physics",
+      "name": "БГУ · Физический факультет",
+      "city": "Минск",
+      "version": 2,
+      "kind": "university",
+      "university": "БГУ",
+      "faculty": "Физический факультет"
+    },
+    {
+      "id": "bsu-fir",
+      "name": "БГУ · Факультет международных отношений",
+      "city": "Минск",
+      "version": 2,
+      "kind": "university",
+      "university": "БГУ",
+      "faculty": "Факультет международных отношений"
+    },
+    {
+      "id": "mrk",
+      "name": "МРК · Минский радиотехнический колледж",
+      "city": "Минск",
+      "version": 2,
+      "kind": "college"
+    },
+    {
+      "id": "bseu-uef",
+      "name": "БГЭУ · Учётно-экономический факультет",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Учётно-экономический факультет"
+    },
+    {
+      "id": "bseu-fkti",
+      "name": "БГЭУ · Факультет коммерции и туристической индустрии",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Факультет коммерции и туристической индустрии"
+    },
+    {
+      "id": "bseu-fmbk",
+      "name": "БГЭУ · Факультет международного бизнеса и коммуникаций",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Факультет международного бизнеса и коммуникаций"
+    },
+    {
+      "id": "bseu-fmk",
+      "name": "БГЭУ · Факультет маркетинга и логистики",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Факультет маркетинга и логистики"
+    },
+    {
+      "id": "bseu-fmeo",
+      "name": "БГЭУ · Факультет международных экономических отношений",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Факультет международных экономических отношений"
+    },
+    {
+      "id": "bseu-fp",
+      "name": "БГЭУ · Факультет права",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Факультет права"
+    },
+    {
+      "id": "bseu-ffbd",
+      "name": "БГЭУ · Факультет финансов и банковского дела",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Факультет финансов и банковского дела"
+    },
+    {
+      "id": "bseu-fce",
+      "name": "БГЭУ · Факультет цифровой экономики",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Факультет цифровой экономики"
+    },
+    {
+      "id": "bseu-fem",
+      "name": "БГЭУ · Факультет экономики и менеджмента",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Факультет экономики и менеджмента"
+    },
+    {
+      "id": "bseu-sef",
+      "name": "БГЭУ · СЭФ",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "СЭФ"
+    },
+    {
+      "id": "bseu-sb",
+      "name": "БГЭУ · СБ",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "СБ"
+    },
+    {
+      "id": "bseu-mag",
+      "name": "БГЭУ · Магистратура",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГЭУ",
+      "faculty": "Магистратура"
+    }
+  ]
+}
