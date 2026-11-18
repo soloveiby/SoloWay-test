@@ -9,7 +9,9 @@
       "kind": "university",
       "university": "БГУ",
       "faculty": "Физический факультет",
-      "universityLogo": "bsu.png"
+      "universityLogo": "bsu.png",
+      "logo": "bsu-physics.png",
+      "logoTint": true
     },
     {
       "id": "bsu-fir",
