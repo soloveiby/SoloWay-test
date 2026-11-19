@@ -1,7 +1,7 @@
 {
   "schema": 3,
   "id": "bsu-rct",
-  "version": 1,
+  "version": 2,
   "kind": "university",
   "university": "БГУ",
   "faculty": "Факультет радиофизики и компьютерных технологий",
@@ -13,6 +13,7 @@
   "timezone": "Europe/Minsk",
   "source": {
     "type": "gsheet-grid",
+    "feed": "https://raw.githubusercontent.com/soloveiby/SoloWay-data/main/feeds/bsu-rct-mag/",
     "page": "",
     "tidyName": "",
     "defaultSheet": "",
@@ -32,6 +33,14 @@
       {
         "name": "4 курс",
         "sheet": "1UX_s3IlJAkMoBEh9g2h2XWcJGKgoyu_X_5La0vxBasw"
+      },
+      {
+        "name": "Магистратура 1 курс",
+        "sheet": "feed:bsu-rct-mag/1"
+      },
+      {
+        "name": "Магистратура 2 курс",
+        "sheet": "feed:bsu-rct-mag/2"
       }
     ]
   },
