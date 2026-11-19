@@ -1,0 +1,15 @@
+{
+  "schema": 3,
+  "institutions": [
+    {
+      "id": "bsu-rct",
+      "name": "БГУ · Факультет радиофизики и компьютерных технологий",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГУ",
+      "faculty": "Факультет радиофизики и компьютерных технологий",
+      "universityLogo": "bsu.png"
+    }
+  ]
+}
