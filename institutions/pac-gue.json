@@ -1,7 +1,7 @@
 {
   "schema": 2,
   "id": "pac-gue",
-  "version": 2,
+  "version": 3,
   "kind": "university",
   "university": "Академия управления",
   "faculty": "Государственное управление и экономика",
@@ -21,6 +21,10 @@
       {
         "name": "1 курс",
         "sheet": "xlsx:https://www.pac.by/upload/raspis1/26stud/2026%D0%93%D0%A3%D0%AD1%D0%BA1%D1%81%D0%B5%D0%BC_0408.xlsx"
+      },
+      {
+        "name": "2 курс",
+        "sheet": "xlsx:https://www.pac.by/upload/raspis1/26stud/2026%D0%93%D0%A3%D0%AD2%D0%BA3%D1%81%D0%B5%D0%BC_0408.xlsx"
       },
       {
         "name": "3 курс",
