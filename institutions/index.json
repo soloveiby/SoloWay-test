@@ -2,6 +2,16 @@
   "schema": 1,
   "institutions": [
     {
+      "id": "bsu-chem",
+      "name": "БГУ · Химический факультет",
+      "city": "Минск",
+      "version": 1,
+      "kind": "university",
+      "university": "БГУ",
+      "faculty": "Химический факультет",
+      "universityLogo": "bsu.png"
+    },
+    {
       "id": "bsu-physics",
       "name": "БГУ · Физический факультет",
       "city": "Минск",
